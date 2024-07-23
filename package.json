@@ -1,0 +1,34 @@
+{
+  "name": "shade-ui",
+  "version": "1.0.0",
+  "description": "Create elegant website rapidly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnowDingo/Shade-UI.git"
+  },
+  "keywords": [
+    "CSS",
+    "React",
+    "Components",
+    "Free"
+  ],
+  "author": "SnowDingo & Shade-UI contributors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SnowDingo/Shade-UI/issues"
+  },
+  "homepage": "https://github.com/SnowDingo/Shade-UI#readme",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.5.4"
+  }
+}

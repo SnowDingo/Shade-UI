@@ -7,3 +7,6 @@
 
 
 Shade UI is a component/ui framework that lets you create modern-styled designs for free.
+
+## About
+Shade UI is a UI/component library that anyone can use to create elegant design for free. 
