@@ -1,6 +1,6 @@
 {
   "name": "stardawn-ui",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Create elegant website rapidly",
   "main": "index.js",
   "scripts": {
