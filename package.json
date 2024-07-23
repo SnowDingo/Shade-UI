@@ -1,9 +1,11 @@
 {
-  "name": "shade-ui",
-  "version": "1.0.0",
+  "name": "stardawn-ui",
+  "version": "1.0.1",
   "description": "Create elegant website rapidly",
   "main": "index.js",
   "scripts": {
+    "build": "rollup -c",
+    "prepublishOnly": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -27,6 +29,9 @@
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
+    "@babel/preset-env": "^7.24.8",
+    "@babel/preset-react": "^7.24.7",
+    "@babel/preset-typescript": "^7.24.7",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
     "babel-cli": "^6.26.0",
