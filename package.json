@@ -18,12 +18,12 @@
     "Components",
     "Free"
   ],
-  "author": "SnowDingo & Shade-UI contributors",
+  "author": "SnowDingo & StardawnUI contributors",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SnowDingo/Shade-UI/issues"
+    "url": "https://github.com/SnowDingo/StardawnUI/issues"
   },
-  "homepage": "https://github.com/SnowDingo/Shade-UI#readme",
+  "homepage": "https://github.com/SnowDingo/StardawnUI#readme",
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
